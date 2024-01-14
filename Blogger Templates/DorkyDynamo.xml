@@ -1,6 +1,10 @@
+
+
+
+
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
-<!--THIS TEMPLATE IS CUSTOMIZED FOR DORKYDYNAMO ONLY--><html b:version='2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<html b:version='2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
   <head>
 	<script src='https://www.blogger.com/static/v1/jsbin/3382421118-ieretrofit.js' type='text/javascript'/>
 	<meta charset='utf-8'/>
@@ -39,6 +43,7 @@ Template customized by & for DorkyDynamo.
 Name: DorkyDynamo version:01
 Author: DorkyDynamo
 -----*/
+
 <Variable name="keycolor" description="Main Color" type="color" default="#33bbee" value="#33bbee"/>
 <Variable name="color.theme" description="Color Theme" type="color" default="#33bbee" value="#33bbee"/>
 a,abbr,acronym,address,applet,b,big,blockquote,body,caption,center,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,h1,h2,h3,h4,h5,h6,html,i,iframe,img,ins,kbd,label,legend,li,object,p,pre,q,s,samp,small,span,strike,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,tt,u,ul,var{padding:0;border:0;outline:0;vertical-align:baseline;background:0 0;margin:0}
@@ -83,8 +88,9 @@ span.item-control,a.quickedit{display:none!important}
 #social-top .facebook:before{content:"\f09a"}
 #social-top .twitter:before{content:"\f099"}
 #social-top .rss:before{content:"\f09e"}
-#social-top .youtube:before{content:"\f167"}
+#social-top .Youtube:before{content:"\f167"}
 #social-top .instagram:before{content:"\f16d"}
+#social-top .shutterstock:before{content:""}
 #social-top .reddit:before{content:"\f1a2"}
 #header-blog{height:140px;background-color:#fff;position:relative;overflow:hidden}
 .header-content{margin:0 auto;overflow:hidden;height:130px}
@@ -409,10 +415,11 @@ ul.post-nav{background-color:#FFF;border-bottom:1px solid #d7d7d7;border-top:1px
 #social-footer .facebook:before{content:"\f230"}
 #social-footer .twitter:before{content:"\f099"}
 #social-footer .rss:before{content:"\f09e"}
-#social-footer .youtube:before{content:"\f167"}
+#social-footer .Youtube:before{content:"\f167"}
 #social-footer .tumblr:before{content:"\f173"}
 #social-footer .instagram:before{content:"\f16d"}
 #social-footer .reddit:before{content:"\f1a2"}
+#social-footer .shutterstock:before{content:""}
 .sect-left{display:inline-block;float:left;width:31.655%;margin-right:25px}
 .sect-left:nth-child(3){margin-right:0}
 .sect-left h2{ color: #222222; font: 700 13px "Roboto", sans-serif; display: inline-block; -webkit-flex: 0 auto; -ms-flex: 0 auto; flex: 0 auto; margin: 0; padding: 0 20px; text-transform: uppercase; font-size: 1rem; font-weight: 700; white-space: nowrap;}
@@ -687,9 +694,11 @@ if (etiqueta == &quot;Advertisement&quot;)
 	<b:section class='social-top' id='social-top' maxwidgets='1' name='Social Top' showaddelement='yes'>
 <b:widget id='LinkList02' locked='true' title='Social Media Icons' type='LinkList' version='1'>
   <b:widget-settings>
-    <b:widget-setting name='sorting'>NONE</b:widget-setting>
-    <b:widget-setting name='text-0'>youtube	</b:widget-setting>
-    <b:widget-setting name='link-0'>https://www.youtube.com/c/dorkydynamo</b:widget-setting>
+    <b:widget-setting name='sorting'>ALPHABETICAL</b:widget-setting>
+    <b:widget-setting name='text-1'>Youtube</b:widget-setting>
+    <b:widget-setting name='link-1'>https://www.youtube.com/c/dorkydynamo</b:widget-setting>
+    <b:widget-setting name='text-0'>shutterstock</b:widget-setting>
+    <b:widget-setting name='link-0'>https://www.shutterstock.com/g/DorkyDynamo</b:widget-setting>
   </b:widget-settings>
   <b:includable id='main'>
 	<div class='widget-content'>
@@ -800,7 +809,7 @@ if (etiqueta == &quot;Advertisement&quot;)
   <b:widget-settings>
     <b:widget-setting name='sorting'>NONE</b:widget-setting>
     <b:widget-setting name='text-1'>Photo Gallery</b:widget-setting>
-    <b:widget-setting name='link-1'><![CDATA[https://www.shutterstock.com/g/DorkyDynamo?rid=234792545&utm_medium=email&utm_source=ctrbreferral-t-link]]></b:widget-setting>
+    <b:widget-setting name='link-1'>https://www.shutterstock.com/g/DorkyDynamo</b:widget-setting>
     <b:widget-setting name='text-0'>Archive</b:widget-setting>
     <b:widget-setting name='link-0'>/p/archive.html</b:widget-setting>
   </b:widget-settings>
@@ -1787,13 +1796,15 @@ DorkyDynamo is a personal blog created for entertainment as well as a place to d
 
 <!-- Footer Social -->
 <b:section class='social-footer' id='social-footer' maxwidgets='1' name='Social Footer' showaddelement='yes'>
-   <b:widget id='LinkList20' locked='true' title='Social Media Icons 2' type='LinkList' version='1'>
-     <b:widget-settings>
-       <b:widget-setting name='sorting'>NONE</b:widget-setting>
-       <b:widget-setting name='text-0'>youtube</b:widget-setting>
-       <b:widget-setting name='link-0'>https://www.youtube.com/c/dorkydynamo</b:widget-setting>
-     </b:widget-settings>
-     <b:includable id='main'>
+  <b:widget id='LinkList20' locked='true' title='Social Media Icons 2' type='LinkList' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='sorting'>ALPHABETICAL</b:widget-setting>
+      <b:widget-setting name='text-1'>Youtube</b:widget-setting>
+      <b:widget-setting name='link-1'>https://www.youtube.com/c/dorkydynamo</b:widget-setting>
+      <b:widget-setting name='text-0'>shuttersstock</b:widget-setting>
+      <b:widget-setting name='link-0'>https://www.shutterstock.com/g/DorkyDynamo</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main'>
             <div class='widget-content'>
               <ul>
                 <b:loop values='data:links' var='link'>
@@ -1802,8 +1813,8 @@ DorkyDynamo is a personal blog created for entertainment as well as a place to d
               </ul>
             </div>
     </b:includable>
-   </b:widget>
- </b:section>
+  </b:widget>
+</b:section>
 
 <!-- Footer Copyright -->
 <div class='copyright'>
