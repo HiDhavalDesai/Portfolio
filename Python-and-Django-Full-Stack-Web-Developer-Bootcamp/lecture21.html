@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Form Selections</title>
+  </head>
+  <body>
+<h1>Hotel Feedback Form</h1>
+
+<!-- The name is imporant when connecting buttons -->
+
+<form method="get">
+<h2>Are you from inside the US? or Outside the US?</h2>
+<label for="inusa">Inside</label>
+<input id="inusa"type="radio" name="loc" value="inside">
+
+<label for="outusa">Outside</label>
+<input id="outusa"type="radio" name="loc" value="outside">
+
+
+
+<h2>How was your service?</h2>
+<select name="stars">
+  <option value="Great">3</option>
+  <option value="Okay">2</option>
+  <option value="Bad">1</option>
+</select>
+
+<h2>Any other feedback?</h2>
+<textarea name="mytext" rows="8" cols="80"></textarea>
+<!-- For textarea you don't use input, you give them space to write, not just one line -->
+
+
+<input type="submit" name="" value="Submit">
+
+</form>
+
+<!-- This is the URL I get at the end: ?loc=inside&stars=Bad -->
+<!-- Front-end values and the back-end values are different -->
+
+  </body>
+</html>
