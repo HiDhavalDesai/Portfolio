@@ -2,12 +2,12 @@
   color: red;
 } */
 
-
 /* classes start with a dot */
 
 .firstdiv{
   color:blue;
 }
+
 .seconddiv{
   color:red;
 }
@@ -23,7 +23,6 @@ text-decoration: line-through;
 
 *{
   color: black;
-
 }
 /* uncommon */
 
@@ -32,6 +31,8 @@ text-decoration: line-through;
 H3 + ul{
 Border: 4px dotted purple;
 }
+/* Border thickness, style, color */
+
 
 /* reads as select all unordered list immediately after h3 */
 
@@ -45,7 +46,7 @@ li a{
 /* all anchor tags inside list elements */
 
 
-li a[href="facebook.com"]{
+li a[href="https://facebook.com"]{
   color:blue;
   border: 5px solid orange;
 }
