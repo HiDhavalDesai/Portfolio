@@ -1,0 +1,42 @@
+h1{
+font-family: 'Rubik Burned';
+text-align: center;
+}
+
+#spectrum{
+  margin: auto;
+}
+
+#one{
+  border: 100px solid #CDB4DB;
+  padding: 10%;
+}
+
+#two{
+  border: 100px solid #FFC8DD;
+  padding: 10%;
+}
+
+#three{
+  border: 100px solid #FFAFCC;
+  padding: 10%;
+}
+
+#four{
+  border: 100px solid #BDE0FE;
+  padding: 10%;
+}
+
+#five{
+  border: 100px solid #A2D2FF;
+  padding: 10%;
+}
+
+#space{
+  padding: 5px;
+}
+
+
+/* cell high was needed */
+
+/* the color needed be be in the background */
