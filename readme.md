@@ -3,10 +3,10 @@ Welcome to my Github Portfolio. <br>
 Here you will find all the projects I have worked on. <br>
 Ability to code in - HTML, CSS, Bootstrap, Javascript, Python and Django. <br><br>
 
-<strong>Project List:</strong><br>
+<!-- <strong>Project List:</strong><br>
 1. <a href="python-django-full-stack-web-developer-bootcamp">Learning to Code</a><br>
 
-<!-- 2. <a href="">Madlibs</a><br>
+2. <a href="">Madlibs</a><br>
 2. <a href="">Guess the Number (Computer)</a> <br>
 3. <a href="">Guess the number (user)</a> <br>
 4. <a href="">Rock Paper Scissors</a> <br>
@@ -17,9 +17,9 @@ Ability to code in - HTML, CSS, Bootstrap, Javascript, Python and Django. <br><b
 9. <a href="">Minesweeper</a> <br>
 10. <a href="">Sudoku Solver</a> <br>
 11. <a href="">Photo Processing</a> <br>
-12. <a href="">Markov Chain Composer</a> <br> -->
+12. <a href="">Markov Chain Composer</a> <br>
 
-<!-- <br>
+<br>
 <strong>Pet Projects:</strong><br>
 <a href="">CodeName: TheWall</a><br> -->
 
