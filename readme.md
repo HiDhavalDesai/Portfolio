@@ -1,4 +1,4 @@
-<h1>Hello and Welcome!</h1>
+<center><h1>Hello and Welcome!</h1></center>
 My name is Dhaval, and Welcome to my Github Portfolio. <br>
 Here you will find all the projects I have worked on. <br>
 Ability to code in - HTML, CSS, Bootstrap, Javascript, Python and Django. <br><br>
