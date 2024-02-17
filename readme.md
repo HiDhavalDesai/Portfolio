@@ -5,7 +5,7 @@ Ability to code in - HTML, CSS, Bootstrap, Javascript, Python and Django. <br><b
 
 <strong>Project List:</strong><br>
 1. <a href="">Learning to Code</a><br>
-2. <Coming Soon>
+2. 
 
 <br>
 <strong>Testing my abilities:</strong><br>
