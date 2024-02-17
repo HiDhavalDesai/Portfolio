@@ -24,7 +24,7 @@ Ability to code in - HTML, CSS, Bootstrap, Javascript, Python and Django. <br><b
 
 <br>
 <strong>Pet Projects:</strong><br>
-<a href="">CodeName: TheWall</a>
+<a href="">CodeName: TheWall</a><br>
 
 
 <br>
