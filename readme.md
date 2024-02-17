@@ -8,19 +8,19 @@ Ability to code in - HTML, CSS, Bootstrap, Javascript, Python and Django. <br><b
 2. <Coming Soon>
 
 <br>
-<strong>Projects to Test my Abilities:</strong><br>
-1. Madlibs <br>
-2. Guess the Number (Computer) <br>
-3. Guess the number (user) <br>
-4. Rock Paper Scissors <br>
-5. Hangman <br>
-6. Tic-tac-toe <br>
-7. Tic-tac-toe (AI) <br>
-8. Binary Search <br>
-9. Minesweeper <br>
-10. Sudoku Solver <br>
-11. Photo Processing <br>
-12. Markov Chain Composer <br>
+<strong>Testing my abilities:</strong><br>
+1. <a href="">Madlibs</a><br>
+2. <a href="">Guess the Number (Computer)</a> <br>
+3. <a href="">Guess the number (user)</a> <br>
+4. <a href="">Rock Paper Scissors</a> <br>
+5. <a href="">Hangman</a> <br>
+6. <a href="">Tic-tac-toe</a> <br>
+7. <a href="">Tic-tac-toe (AI)</a> <br>
+8. <a href="">Binary Search</a> <br>
+9. <a href="">Minesweeper</a> <br>
+10. <a href="">Sudoku Solver</a> <br>
+11. <a href="">Photo Processing</a> <br>
+12. <a href="">Markov Chain Composer</a> <br>
 
-<br><br>
+<br>
 Feel free to connect with me on: <a href="https://linkedin.com/in/hidamiendesai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hidamiendesai" height="15" width="20" /></a>
