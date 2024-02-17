@@ -23,4 +23,9 @@ Ability to code in - HTML, CSS, Bootstrap, Javascript, Python and Django. <br><b
 12. <a href="">Markov Chain Composer</a> <br>
 
 <br>
+<strong>Pet Projects:</strong><br>
+<a href="">CodeName: TheWall</a>
+
+
+<br>
 Feel free to connect with me on: <a href="https://linkedin.com/in/hidamiendesai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hidamiendesai" height="15" width="20" /></a>
