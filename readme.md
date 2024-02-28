@@ -25,4 +25,4 @@ Ability to code in - HTML, CSS, Bootstrap, Javascript, Python and Django. <br><b
 
 
 <br>
-Feel free to connect with me on: <a href="https://www.linkedin.com/in/hidhavaldesai/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hidhavaldesai" height="15" width="20" /></a>&nbsp;<a href="mailto:hidhavaldesai@gmail.com" ><img src="https://icons8.com/icon/60688/email" alt="hidhavaldesai" height="15" width="20" /></a>
+Feel free to connect with me on: <a href="https://www.linkedin.com/in/hidhavaldesai/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hidhavaldesai" height="15" width="20" /></a>&nbsp;<a href="mailto:hidhavaldesai@gmail.com" ><img src="https://pixsector.com/cache/98d85ea4/av4cd196e6012ca07fbf5.png" alt="hidhavaldesai" height="15" width="20" /></a>
