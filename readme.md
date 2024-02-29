@@ -3,9 +3,9 @@ Welcome to my Github Portfolio. <br>
 Here you will find all the projects I have worked on. <br>
 Ability to code in - HTML, CSS, Bootstrap, Javascript, Python and Django. <br><br>
 
-<!-- <strong>Project List:</strong><br>
+ <strong>Project List:</strong><br>
 1. <a href="python-django-full-stack-web-developer-bootcamp">Learning to Code</a><br>
-
+<!--
 2. <a href="">Madlibs</a><br>
 2. <a href="">Guess the Number (Computer)</a> <br>
 3. <a href="">Guess the number (user)</a> <br>
@@ -23,7 +23,7 @@ Ability to code in - HTML, CSS, Bootstrap, Javascript, Python and Django. <br><b
 <strong>Pet Projects:</strong><br>
 <a href="">CodeName: TheWall</a><br> -->
 
-Working towards becoming a full-stack web developer
+Working towards becoming a full-stack web developer.
 
 
 <br>
