@@ -27,4 +27,4 @@ Working towards becoming a full-stack web developer.
 
 
 <br>
-Feel free to connect with me on: <a href="https://www.linkedin.com/in/hidhavaldesai/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hidhavaldesai" height="15" width="20" /></a> <a href="mailto:hidhavaldesai@gmail.com">:envelope:</a>
+Feel free to connect with me on: <a href="https://www.linkedin.com/in/hidhavaldesai/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hidhavaldesai" height="15" width="20" /></a> <a href="mailto:hidhavaldesai@gmail.com">:email:</a>
